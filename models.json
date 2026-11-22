@@ -1,0 +1,48 @@
+{
+  "version": "v1.0",
+  "total_mb": 381.08,
+  "assets": [
+    {
+      "filename": "duration_predictor.onnx",
+      "size_bytes": 3700147,
+      "size_mb": 3.53,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/duration_predictor.onnx"
+    },
+    {
+      "filename": "text_encoder.onnx",
+      "size_bytes": 36416150,
+      "size_mb": 34.73,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/text_encoder.onnx"
+    },
+    {
+      "filename": "vector_estimator.onnx",
+      "size_bytes": 256534781,
+      "size_mb": 244.65,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/vector_estimator.onnx"
+    },
+    {
+      "filename": "vocoder.onnx",
+      "size_bytes": 101424195,
+      "size_mb": 96.73,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/vocoder.onnx"
+    },
+    {
+      "filename": "unicode_indexer.json",
+      "size_bytes": 277676,
+      "size_mb": 0.26,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/unicode_indexer.json"
+    },
+    {
+      "filename": "tts.json",
+      "size_bytes": 8253,
+      "size_mb": 0.01,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/tts.json"
+    },
+    {
+      "filename": "voice_styles.zip",
+      "size_bytes": 1229276,
+      "size_mb": 1.17,
+      "download_url": "https://github.com/anugrahai/supertonic-tts-models/releases/download/v1.0/voice_styles.zip"
+    }
+  ]
+}
